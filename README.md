@@ -1,4 +1,4 @@
-# agent_pi_eval
+# PI Agent Field Notes
 
 Can a small or local model do real engineering work inside the
 [pi](https://github.com/earendil-works/pi) coding agent, and what does the
